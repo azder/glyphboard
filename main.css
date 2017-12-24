@@ -9,6 +9,8 @@
 }
 
 .gb-displayed {
-    font-size: 1.4em;
-    display:   inline-block;
+    font-size:   1.25em;
+    display:     inline-block;
+    white-space: nowrap;
+    word-break:  keep-all;
 }

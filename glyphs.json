@@ -113,6 +113,20 @@
     },
     {
         "glyphs": [
+            {
+                "value": "Ӕ",
+                "display": "Ӕ",
+                "description": "cyrillic ligature"
+            },
+            {
+                "value": "ӕ",
+                "display": "ӕ",
+                "description": "cyrillic ligature"
+            }
+        ]
+    },
+    {
+        "glyphs": [
 
             {
                 "value": "«",
@@ -195,6 +209,65 @@
                 "value": "≠",
                 "display": "≠",
                 "description": "not equal"
+            }
+        ]
+    },
+    {
+        "glyphs": [
+            {
+                "value": "Æ",
+                "display": "Æ",
+                "description": "latin ligature"
+            },
+            {
+                "value": "æ",
+                "display": "æ",
+                "description": "latin ligature"
+            }
+        ]
+    },
+    {
+        "glyphs": [
+            {
+                "id": "U+0301",
+                "value": "\u0301",
+                "display": "&#769",
+                "description": "acute accent modifier",
+                "see": [
+                    "http://graphemica.com/0301"
+                ]
+            }
+        ]
+    },
+    {
+        "glyphs": [
+            {
+                "id": "U+201E",
+                "value": "\u201E",
+                "display": "&bdquo;",
+                "description": "cyrillic opening quote",
+                "see": [
+                    "http://graphemica.com/%E2%80%9E"
+                ]
+            },
+            {
+                "id": "U+201D",
+                "value": "\u201D",
+                "display": "&rdquo;",
+                "description": "cyrillic closing quote",
+                "see": [
+                    "http://graphemica.com/%E2%80%9D"
+                ]
+            }
+        ]
+    },
+    {
+        "glyphs": [
+            {
+                "id": "",
+                "value": "¯\\_(ツ)_/¯",
+                "display": "¯\\_(ツ)_/¯",
+                "description": "shruggie"
             }
         ]
     }
