@@ -1,0 +1,192 @@
+[
+    {
+        "glyphs": [
+            {
+                "value": "Ѐ",
+                "display": "Ѐ",
+                "description": "cyrillic grave"
+            },
+            {
+                "value": "ѐ",
+                "display": "ѐ",
+                "description": "cyrillic grave"
+            },
+            {
+                "value": "Ѝ",
+                "display": "Ѝ",
+                "description": "cyrillic grave"
+            },
+            {
+                "value": "ѝ",
+                "display": "ѝ",
+                "description": "cyrillic grave"
+            }
+        ]
+    },
+    {
+        "glyphs": [
+            {
+                "value": "Ѳ",
+                "display": "Ѳ",
+                "description": "cyrillic theta"
+            },
+            {
+                "value": "ѳ",
+                "display": "ѳ",
+                "description": "cyrillic theta"
+            },
+            {
+                "value": "Ә",
+                "display": "Ә",
+                "description": "cyrillic schwa"
+            },
+            {
+                "value": "ә",
+                "display": "ә",
+                "description": "cyrillic schwa"
+            }
+        ]
+    },
+    {
+        "glyphs": [
+            {
+                "value": "А&#769",
+                "display": "А&#769",
+                "description": "cyrillic accented"
+            },
+            {
+                "value": "а&#769",
+                "display": "а&#769",
+                "description": "cyrillic accented"
+            },
+            {
+                "value": "Е&#769",
+                "display": "Е&#769",
+                "description": "cyrillic accented"
+            },
+            {
+                "value": "е&#769",
+                "display": "е&#769",
+                "description": "cyrillic accented"
+            },
+            {
+                "value": "И&#769",
+                "display": "И&#769",
+                "description": "cyrillic accented"
+            },
+            {
+                "value": "и&#769",
+                "display": "и&#769",
+                "description": "cyrillic accented"
+            },
+            {
+                "value": "О&#769",
+                "display": "О&#769",
+                "description": "cyrillic accented"
+            },
+            {
+                "value": "о&#769",
+                "display": "о&#769",
+                "description": "cyrillic accented"
+            },
+            {
+                "value": "У&#769",
+                "display": "У&#769",
+                "description": "cyrillic accented"
+            },
+            {
+                "value": "у&#769",
+                "display": "у&#769",
+                "description": "cyrillic accented"
+            }
+        ]
+    },
+    {
+        "glyphs": [
+
+            {
+                "value": "«",
+                "display": "«",
+                "description": "spanish open quote"
+            },
+            {
+                "value": "»",
+                "display": "»",
+                "description": "spanish close quote"
+            },
+            {
+                "value": "¿",
+                "display": "¿",
+                "description": "inverted questionmark"
+            },
+            {
+                "value": "¡",
+                "display": "¡",
+                "description": "inverted bang"
+            },
+            {
+                "value": "‽",
+                "display": "‽",
+                "description": "interrobang"
+            },
+            {
+                "value": "⸘",
+                "display": "⸘",
+                "description": "inverted interrobang"
+            }
+        ]
+    },
+    {
+        "glyphs": [
+            {
+                "value": "°",
+                "display": "°",
+                "description": "degree"
+            }
+        ]
+    },
+    {
+        "glyphs": [
+            {
+                "value": "☆",
+                "display": "☆",
+                "description": "white star"
+            },
+            {
+                "value": "★",
+                "display": "★",
+                "description": "black star"
+            }
+        ]
+    },
+    {
+        "glyphs": [
+            {
+                "value": "∀",
+                "display": "∀",
+                "description": "for all"
+            },
+            {
+                "value": "∃",
+                "display": "∃",
+                "description": "exists"
+            },
+            {
+                "value": "∄",
+                "display": "∄",
+                "description": "doesn't exist"
+            },
+            {
+                "value": "∞",
+                "display": "∞",
+                "description": "infinity"
+            },
+            {
+                "value": "≠",
+                "display": "≠",
+                "description": "not equal"
+            }
+        ]
+    }
+]
+        

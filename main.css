@@ -1,0 +1,14 @@
+.gb-main {
+    margin: 1%;
+    width:  97%;
+}
+
+.gb-description-wrap {
+    font-size: 0.6em;
+    display:   inline-block;
+}
+
+.gb-displayed {
+    font-size: 1.4em;
+    display:   inline-block;
+}

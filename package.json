@@ -1,0 +1,21 @@
+{
+    "name": "glyphboard",
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build": "babel index.js --out-file index.min.js",
+        "start": "babel index.js --watch --out-file index.min.js"
+    },
+    "author": "azder <azhder@gmail.com>",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/azder/glyphboard.git"
+    },
+    "homepage": "https://azder.github.io/pingman",
+    "devDependencies": {
+        "babel-cli": "^6.26.0",
+        "babel-preset-env": "^1.6.1"
+    }
+}
