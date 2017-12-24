@@ -50,52 +50,62 @@
     {
         "glyphs": [
             {
-                "value": "А&#769",
+                "id": "U+0410-U+0301",
+                "value": "А\u0301",
                 "display": "А&#769",
-                "description": "cyrillic accented"
+                "description": "cyrillic accented",
+                "see": [
+                    "http://graphemica.com/0410",
+                    "http://graphemica.com/0301"
+                ]
             },
             {
-                "value": "а&#769",
+                "id": "U+0430-U+0301",
+                "value": "а\u0301",
                 "display": "а&#769",
-                "description": "cyrillic accented"
+                "description": "cyrillic accented",
+                "see": [
+                    "http://graphemica.com/0430",
+                    "http://graphemica.com/0301"
+                ]
             },
             {
-                "value": "Е&#769",
+                "value": "Е\u0301",
                 "display": "Е&#769",
                 "description": "cyrillic accented"
             },
             {
-                "value": "е&#769",
+                "value": "е\u0301",
                 "display": "е&#769",
                 "description": "cyrillic accented"
             },
             {
-                "value": "И&#769",
+                "value": "И\u0301",
                 "display": "И&#769",
                 "description": "cyrillic accented"
             },
             {
-                "value": "и&#769",
+                "value": "и\u0301",
                 "display": "и&#769",
                 "description": "cyrillic accented"
             },
             {
-                "value": "О&#769",
+                "value": "О\u0301",
                 "display": "О&#769",
                 "description": "cyrillic accented"
             },
             {
-                "value": "о&#769",
+                "value": "о\u0301",
                 "display": "о&#769",
                 "description": "cyrillic accented"
             },
             {
-                "value": "У&#769",
+                "value": "У\u0301",
                 "display": "У&#769",
                 "description": "cyrillic accented"
             },
             {
-                "value": "у&#769",
+                "value": "у\u0301",
                 "display": "у&#769",
                 "description": "cyrillic accented"
             }
