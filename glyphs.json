@@ -234,7 +234,9 @@
                 "display": "&#769",
                 "description": "acute accent modifier",
                 "see": [
-                    "http://graphemica.com/0301"
+                    "http://graphemica.com/0301",
+                    "https://www.compart.com/en/unicode/U+0301",
+                    "http://www.fileformat.info/info/unicode/char/0301/index.htm"
                 ]
             }
         ]
@@ -267,7 +269,8 @@
                 "id": "",
                 "value": "¯\\_(ツ)_/¯",
                 "display": "¯\\_(ツ)_/¯",
-                "description": "shruggie"
+                "description": "shruggie",
+                "width": 2
             }
         ]
     }

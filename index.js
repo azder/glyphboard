@@ -51,6 +51,9 @@ fetch('glyphs.json').then(response => response.json().then(data => Object.values
         $b.find('.gb-displayed').html(glyph.display);
         $b.find('.gb-description').text(glyph.description);
         $b.attr('data-value', glyph.value);
+        if (glyph.width) {
+            $b.removeClass('col-1').addClass(`col-${glyph.width}`)
+        }
     });
 
 })));
