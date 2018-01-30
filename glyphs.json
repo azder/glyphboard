@@ -238,6 +238,15 @@
                     "https://www.compart.com/en/unicode/U+0301",
                     "http://www.fileformat.info/info/unicode/char/0301/index.htm"
                 ]
+            },
+            {
+                "id": "U+0302",
+                "value": "\u0302",
+                "display": "&#770",
+                "description": "combining circumflex accent",
+                "see": [
+                    "http://graphemica.com/0302"
+                ]
             }
         ]
     },
